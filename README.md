@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Viktroria Pyzhyk
+## 👋 Hi, I'm Viktoria Pyzhyk
 
 ### 💻 About Me
 Junior Fullstack Developer | React | Node.js  
